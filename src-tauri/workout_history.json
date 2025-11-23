@@ -1,0 +1,60 @@
+{
+    "workouts": [
+        {
+            "cpf": "12345678900",
+            "timestamp": "2025-11-22 20:02:34",
+            "plan": [
+                "### M\u00e9todo: Full Body (Hipertrofia)",
+                "**Instru\u00e7\u00e3o:** Fa\u00e7a 3 s\u00e9ries de cada exerc\u00edcio, com 8 a 12 repeti\u00e7\u00f5es. Se fizer 12 repeti\u00e7\u00f5es, aumente o peso no pr\u00f3ximo treino.",
+                "---",
+                "#### Treino A:",
+                "1. Costas: Remada Curvada (Barra, Halter)",
+                "2. Quadr\u00edceps: Leg Press 45\u00b0",
+                "3. Peito: Supino Declinado (M\u00e1quina, Barra)",
+                "4. Posterior de Coxa: Cadeira Flexora",
+                "5. B\u00edceps: Rosca Bayesiana (Polia, M\u00e1quina, Halter)",
+                "6. Adutor: Cadeira Adutora",
+                "7. Ombro: Crucifixo Inverso (M\u00e1quina, Halter)",
+                "8. Gl\u00fateo: Cadeira Abdutora",
+                "---",
+                "#### Treino B:",
+                "1. Costas: Pull-over (Corda, Halter)",
+                "2. Quadr\u00edceps: Cadeira Extensora",
+                "3. Peito: Voador (M\u00e1quina)",
+                "4. Posterior de Coxa: Stiff (Barra, Halter)",
+                "5. Tr\u00edceps: Tr\u00edceps Franc\u00eas (Halter, Barra)",
+                "6. Abdutor: Cadeira Abdutora",
+                "7. Ombro: Eleva\u00e7\u00e3o Lateral (Halter, Polia)",
+                "8. Gl\u00fateo: Agachamento B\u00falgaro"
+            ]
+        },
+        {
+            "cpf": "12345678900",
+            "timestamp": "2025-11-22 20:03:09",
+            "plan": [
+                "### M\u00e9todo: Full Body (Hipertrofia)",
+                "**Instru\u00e7\u00e3o:** Fa\u00e7a 3 s\u00e9ries de cada exerc\u00edcio, com 8 a 12 repeti\u00e7\u00f5es. Se fizer 12 repeti\u00e7\u00f5es, aumente o peso no pr\u00f3ximo treino.",
+                "---",
+                "#### Treino A:",
+                "1. Costas: Puxada Alta com Tri\u00e2ngulo",
+                "2. Quadr\u00edceps: Leg Press 45\u00b0",
+                "3. Peito: Supino Declinado (M\u00e1quina, Barra)",
+                "4. Posterior de Coxa: Cadeira Flexora",
+                "5. B\u00edceps: Rosca Bayesiana (Polia, M\u00e1quina, Halter)",
+                "6. Adutor: Cadeira Adutora",
+                "7. Ombro: Desenvolvimento (M\u00e1quina, Halter, Barra)",
+                "8. Gl\u00fateo: Gl\u00fateo na Polia (Cabo)",
+                "---",
+                "#### Treino B:",
+                "1. Costas: Remada Unilateral (Serrote)",
+                "2. Quadr\u00edceps: Leg Press 45\u00b0",
+                "3. Peito: Cross Over (Polia Baixa)",
+                "4. Posterior de Coxa: Flex\u00e3o de Perna em P\u00e9",
+                "5. Tr\u00edceps: Mergulho no Banco",
+                "6. Abdutor: Cadeira Abdutora",
+                "7. Ombro: Crucifixo Inverso (M\u00e1quina, Halter)",
+                "8. Gl\u00fateo: Agachamento B\u00falgaro"
+            ]
+        }
+    ]
+}

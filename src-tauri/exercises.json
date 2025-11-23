@@ -1,0 +1,64 @@
+{
+  "peito": [
+    "Supino Inclinado (Máquina, Halter, Barra)",
+    "Supino Reto (Máquina, Halter, Barra)",
+    "Supino Declinado (Máquina, Barra)",
+    "Paralelas (Foco em Peito)",
+    "Cross Over (Polia Alta)",
+    "Cross Over (Polia Baixa)",
+    "Voador (Máquina)"
+  ],
+  "costas": [
+    "Puxada Alta (Pulldown)",
+    "Remada Curvada (Barra, Halter)",
+    "Remada Cavalinho",
+    "Remada Unilateral (Serrote)",
+    "Puxada Alta com Triângulo",
+    "Pull-over (Corda, Halter)"
+  ],
+  "biceps": [
+    "Rosca Scott (Máquina, Halter, Barra W)",
+    "Rosca Bayesiana (Polia, Máquina, Halter)",
+    "Rosca Martelo (Halter, Polia)",
+    "Rosca Direta (Halter, Barra W, Polia)"
+  ],
+  "triceps": [
+    "Tríceps Pulley (Corda, Barra)",
+    "Tríceps Francês (Halter, Barra)",
+    "Tríceps Testa (Barra W)",
+    "Mergulho no Banco"
+  ],
+  "ombro": [
+    "Desenvolvimento (Máquina, Halter, Barra)",
+    "Elevação Lateral (Halter, Polia)",
+    "Elevação Frontal (Halter, Polia)",
+    "Remada Alta",
+    "Crucifixo Inverso (Máquina, Halter)"
+  ],
+  "quadriceps": [
+    "Agachamento Livre",
+    "Leg Press 45°",
+    "Cadeira Extensora",
+    "Agachamento Hack",
+    "Afundo"
+  ],
+  "posterior": [
+    "Stiff (Barra, Halter)",
+    "Cadeira Flexora",
+    "Mesa Flexora",
+    "Flexão de Perna em Pé"
+  ],
+  "gluteo": [
+    "Elevação Pélvica (Barra, Máquina)",
+    "Agachamento Búlgaro",
+    "Cadeira Abdutora",
+    "Glúteo na Polia (Cabo)"
+  ],
+  "panturrilha": [
+    "Panturrilha em Pé (Máquina, Smith)",
+    "Panturrilha Sentado (Máquina)",
+    "Panturrilha no Leg Press"
+  ],
+  "adutor": ["Cadeira Adutora"],
+  "abdutor": ["Cadeira Abdutora"]
+}
